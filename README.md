@@ -42,7 +42,6 @@
    <a href="https://t.me/Carlos_M_M" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 
+
   
-[facebook]: https://www.facebook.com/clark.monteiro.7
-[instagram]: https://www.instagram.com/carlos_mvm/
 [linkedin]: https://www.linkedin.com/in/carlos-monteiro-a62205195/
