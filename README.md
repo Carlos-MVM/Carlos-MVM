@@ -36,9 +36,7 @@
 ### Connect with me:
 
   <a href = "mailto:carlosmaurovm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <a href="https://www.linkedin.com/in/carlos-monteiro-a62205195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
    <a href="https://t.me/Carlos_M_M" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 
