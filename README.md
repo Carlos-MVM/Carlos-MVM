@@ -19,7 +19,7 @@
 </div>
 
  ---
-### Languages, Tools nad Standards:
+### Languages, Tools and Standards:
 
   <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
   <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
