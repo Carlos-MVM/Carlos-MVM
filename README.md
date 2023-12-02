@@ -7,7 +7,7 @@
 
 - 🔭 I'm studying Computer Cience 
 -  📚 I'm currently learning everything
-- 🥅 2022 Goals: Contribute more and Learn even more
+- 🥅 2023 Goals: Contribute more and Learn even more
 - ⚡ Fun fact: I'm kinda lazy but also very  focused
 
 
