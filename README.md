@@ -6,9 +6,9 @@
 <h3> I'm a Student, Developer, and a Science Enthusiast!!</h3>
 
 - 🔭 I'm studying Computer Cience 
--  📚 I'm currently learning everything
-- 🥅 2023 Goals: Contribute more and Learn even more
-- ⚡ Fun fact: I'm kinda lazy but also very  focused
+-  📚 I'm currently learning JavaScript
+- 🥅 2024 Goals: Contribute more and Learn even more
+- ⚡ Fun fact: I am somewhat lax, yet I am also highly focused.
 
 
 ---
